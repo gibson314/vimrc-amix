@@ -3,6 +3,7 @@ This vimrc is forked from [amix](https://github.com/amix/vimrc) and tuned accord
 The modifications mainly include:
 * Set the default `shiftwidth` and `tabstop` to 2 instead of 4
 * Set `shiftwidth` and `tapstop` for Python to 4 specifically
+* Set the default font to [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/)
 
 ---
 
